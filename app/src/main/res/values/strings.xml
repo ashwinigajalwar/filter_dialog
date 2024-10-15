@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Based_on_Dialogs_Assig1</string>
+    <string name="filter">Filter</string>
+    <string name="price_range">Price Range</string>
+    <string name="_1_bhk">1 BHK</string>
+    <string name="_2_bhk">2 BHK</string>
+    <string name="_3_bhk">3 BHK</string>
+    <string name="ok">OK</string>
+
+</resources>
